@@ -6,6 +6,12 @@
 # Join on Docker
 `docker exec -it redis /bin/bash`
 
+# URLs
+`http://localhost:8080/hello`
+
+`http://localhost:8080/cancel`
+
+
 # on the redis, join on the redis-cli
 `redis-cli` 
 
@@ -13,6 +19,3 @@
 `KEYS *`
 `get "[name of the chache]"`
 
-`http://localhost:8080/hello`
-
-`http://localhost:8080/cancel`
