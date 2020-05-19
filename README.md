@@ -12,3 +12,7 @@
 # see the keys
 `KEYS *`
 `get "[name of the chache]"`
+
+`http://localhost:8080/hello`
+
+`http://localhost:8080/cancel`
